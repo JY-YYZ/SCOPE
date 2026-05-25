@@ -1,0 +1,7 @@
+# Verified with Python 3.10 and CUDA 12.1.
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+torch==2.1.2+cu121
+transformers==4.40.0
+accelerate==0.29.3
+safetensors==0.4.3
