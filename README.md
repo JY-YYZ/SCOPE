@@ -1,8 +1,8 @@
-\**********************************
-SCOPE (KDD 2026)
-Paper DOI: 10.1145/3770855.3817993
-Author: Xi'an Jiyun Technology Co., Ltd.
-**********************************\
+# SCOPE (KDD 2026)
+
+- Paper DOI: 10.1145/3770855.3817993
+- Author: Xi'an Jiyun Technology Co., Ltd.
+
 
 # SCOPE Core Release
 
