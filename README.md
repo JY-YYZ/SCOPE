@@ -1,3 +1,9 @@
+\**********************************
+SCOPE (KDD 2026)
+Paper DOI: 10.1145/3770855.3817993
+Author: Xi'an Jiyun Technology Co., Ltd.
+**********************************\
+
 # SCOPE Core Release
 
 This repository contains a compact reference implementation of the core SCOPE-style editing pipeline. It keeps only the method components needed to build an activation covariance shield, compute a null-space projection, estimate a refusal direction, and apply projected model updates.
